@@ -1,6 +1,6 @@
 
 """
-Python Warm-Up: One-Page Bootcamp Script
+Python Warm-Up: Bootcamp Script
 ---------------------------------------
 Concepts covered:
 - functions
