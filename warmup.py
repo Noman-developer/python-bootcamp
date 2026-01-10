@@ -2,7 +2,7 @@
 """
 Python Warm-Up: Bootcamp Script
 ---------------------------------------
-Concepts covered:
+Concepts covered: 
 - functions
 - lists & dictionaries
 - loops
