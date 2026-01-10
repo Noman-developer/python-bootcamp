@@ -6,7 +6,7 @@ Concepts covered:
 - functions
 - lists & dictionaries
 - loops
-- conditionals
+- conditionals 
 - error handling
 - simple CLI interaction
 """
